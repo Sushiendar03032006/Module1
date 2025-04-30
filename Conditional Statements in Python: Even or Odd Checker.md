@@ -11,8 +11,19 @@ To write a Python program to check whether the given number is **even** or **odd
    - Else, print `"ODD"`.
 4. End the program.
 
-## 🧾 Program
+## 🧾 Program:
+```
+a=eval(input())
+if a%2==0:
+    print("EVEN")
+else:
+    print("ODD")
+```
 
-## Output
+## Output:
+![image](https://github.com/user-attachments/assets/793036e0-e186-429f-b5d5-c4527e850d6c)
 
-## Result
+
+## Result:
+ Python program to check whether the given number is **even** or **odd** using `if...else` statements is succesfully executed.
+
