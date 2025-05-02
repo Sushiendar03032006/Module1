@@ -21,7 +21,8 @@ else:
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/793036e0-e186-429f-b5d5-c4527e850d6c)
+![image](https://github.com/user-attachments/assets/0adeaf25-89c4-4636-b9c3-98ee3d5e586e)
+
 
 
 ## Result:
