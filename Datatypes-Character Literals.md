@@ -14,7 +14,8 @@ print('a')
 ```
 
 ## Output:
-![Screenshot 2025-04-30 222435](https://github.com/user-attachments/assets/8671c30d-7aa7-4f1d-b404-a59241d3a7f0)
+![image](https://github.com/user-attachments/assets/4a1e21a7-92f7-46ef-96ed-122235ff87df)
+
 
 
 
